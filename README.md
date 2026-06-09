@@ -6,16 +6,17 @@ embedded systems, infrastructure, and building tools for my own niche use cases.
 ## things i work on
 
 - 🎛️ **audio & music tech** — building tools for [Bela](https://bela.io/), 
-  Ableton, and Reason; wrangling sample libraries; hacking on MIDI hardware
-- 🏠 **home infrastructure** — self-hosted services, automation, and networking
+  Ableton, and Reason; wrangling sample libraries
 - 🔧 **embedded/hardware** — C++ on Bela, PRU assembly, modding MIDI controllers 
   like my [FC-500](https://github.com/ebai101/fc500)
 - 🐍 **tooling & scripting** — Python and Go utilities to make workflows less annoying
+- 🏠 **home infrastructure** — self-hosted services, automation, and networking
 
 ## notable projects
 
 | project | what it does |
 |---|---|
+| [barback](https://github.com/ebai101/barback) | audio validation and repair tool for sample packs |
 | [splorganizer](https://github.com/ebai101/splorganizer) | better organization for Splice sample libraries |
 | [xc-bela-container](https://github.com/ebai101/xc-bela-container) | dockerized cross-compilation for the Bela platform |
 | [BelaSerialMidi](https://github.com/ebai101/BelaSerialMidi) | serial MIDI parser for Bela |
